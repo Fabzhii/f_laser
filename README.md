@@ -10,4 +10,4 @@ Statebags are used to to sync coords and colors between the players.
 | toggleInfrared  |  Toggle laser to infrared/normal    | bool / nil      |
 | toggleVisor     |  Toggle NVGs to see infrared laser  | bool / nil      |
 
-If you leave the parameter empty it gets toggled, otherwise it is set to the bool-
+If you leave the parameter empty it gets toggled, otherwise it is set to the bool
