@@ -4,8 +4,6 @@ Statebags are used to to sync coords and colors between the players.
 
 ## Exports
 
-
-##### Setters
 | Exports         | Description                         | Parameter(s)    |
 |-----------------|-------------------------------------|-----------------|
 | toggleLaser     |  Toggle the laser                   | bool / nil      |
